@@ -1,0 +1,11 @@
+postcode,date,Unnamed: 0,mean_price,district,sum_property_type_d,sum_property_type_f,sum_property_type_o,sum_property_type_s,sum_property_type_t,sum_tenure_f,sum_tenure_l,sum_is_new_n,sum_is_new_y,latitude,longitude,all-crime,anti-social-behaviour,bicycle-theft,burglary,criminal-damage-arson,drugs,other-theft,possession-of-weapons,public-order,robbery,shoplifting,theft-from-the-person,vehicle-crime,violent-crime,other-crime
+AL1 1AS,2021-03,0,608750.0,ST ALBANS,0,0,0,0,2,2,0,2,0,51.749073,-0.335471,0,63,6,15,19,6,9,1,22,1,31,2,10,78,2
+AL1 1AU,2021-03,1,1471875.0,ST ALBANS,1,0,0,1,0,2,0,2,0,51.741475,-0.319273,0,56,5,13,8,5,8,1,9,2,14,2,11,45,2
+AL1 1DU,2022-02,2,867500.0,ST ALBANS,1,0,0,1,0,2,0,2,0,51.731178,-0.31584,0,18,0,2,4,2,3,2,2,1,2,0,9,18,0
+AL1 1HY,2023-12,3,2278333.333333333,ST ALBANS,1,0,2,0,0,3,0,3,0,51.737854,-0.31444,0,24,1,8,5,1,8,3,4,2,1,0,15,31,1
+AL1 1NF,2021-03,4,642500.0,ST ALBANS,0,0,0,1,1,2,0,2,0,51.749499,-0.336918,0,60,6,13,19,6,9,1,22,1,31,2,10,78,2
+AL1 1NG,2021-05,5,462750.0,ST ALBANS,0,2,0,0,0,0,2,2,0,51.750299,-0.337975,0,102,13,13,20,11,20,2,22,1,25,3,22,71,2
+AL1 1NL,2023-04,6,665000.0,ST ALBANS,0,1,0,0,1,1,1,2,0,51.749302,-0.339533,0,56,16,9,21,13,29,1,11,3,45,2,18,79,14
+AL1 1NR,2021-03,7,363504.5,ST ALBANS,0,2,0,0,0,0,2,2,0,51.742368,-0.322615,0,63,6,14,11,6,8,1,14,2,22,2,11,56,3
+AL1 1NR,2022-02,8,525500.0,ST ALBANS,0,2,0,0,0,0,2,2,0,51.742368,-0.322615,0,45,6,5,12,5,25,2,17,0,17,4,12,62,4
+AL1 1NR,2022-03,9,428229.0,ST ALBANS,0,2,0,0,0,0,2,2,0,51.742368,-0.322615,0,61,3,12,16,7,28,3,20,0,16,3,18,67,4
